@@ -1,2 +1,2 @@
-This repo goes through some exercises from the course [https://softeng281.digitaledu.ac.nz/](SE281 - Object Oriented Programming)
+This repo goes through some exercises from the course [SE281 - Object Oriented Programming](https://softeng281.digitaledu.ac.nz/)
 
