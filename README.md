@@ -20,3 +20,14 @@ We need to develop a system that with the following functionality:
 - Given a book, sell all copies of that book (equality based on title, author, publication year).
 
 We also notice there is the possibility for our system to cater for multiple book sellers.
+
+
+## Forest example for interfaces
+We are hiking in the forest and come across interesting items, that we are allowed to gather and but into our backpack. Some items are edible and some are not.
+Implementing these items with indiviual/separate and distinct classes can make it more complicated later on to add to the backpack, especially if we start to add more types of items.
+
+We can have items like:
+- Stones, Leaves, 
+- Berries, Apples, Nuts, Mushroom
+
+We can think of them all as Findable Objects, and some as Edible - use interfaces to define these
